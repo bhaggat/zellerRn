@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomerCard Component Snapshot matches 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "borderRadius": 8,
+      "flexDirection": "row",
+      "gap": 10,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#D1E4FC",
+        "borderRadius": 4,
+        "height": 40,
+        "justifyContent": "center",
+        "width": 40,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#007BFF",
+          "fontSize": 20,
+        }
+      }
+    >
+      D
+    </Text>
+  </View>
+  <View>
+    <Text
+      style={
+        {
+          "fontSize": 16,
+          "fontWeight": "500",
+        }
+      }
+      testID="customer-name"
+    >
+      Dhruv Bhagat
+    </Text>
+    <Text
+      style={
+        {
+          "color": "#6B7280",
+          "fontSize": 14,
+          "textTransform": "capitalize",
+        }
+      }
+      testID="customer-role"
+    >
+      Admin
+    </Text>
+  </View>
+</View>
+`;

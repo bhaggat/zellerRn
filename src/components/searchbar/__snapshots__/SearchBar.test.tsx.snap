@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar Component Snapshot Matched 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "borderColor": "#ccc",
+      "borderRadius": 8,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "paddingHorizontal": 8,
+      "paddingVertical": 4,
+      "width": "100%",
+    }
+  }
+>
+  <TextInput
+    clearButtonMode="always"
+    onChangeText={[Function]}
+    placeholder="Search..."
+    placeholderTextColor="black"
+    style={
+      {
+        "flex": 1,
+        "fontSize": 16,
+        "height": 40,
+      }
+    }
+    value=""
+  />
+</View>
+`;
+
+exports[`SearchBar Component Snapshot matches 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "borderColor": "#ccc",
+      "borderRadius": 8,
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "paddingHorizontal": 8,
+      "paddingVertical": 4,
+      "width": "100%",
+    }
+  }
+>
+  <TextInput
+    clearButtonMode="always"
+    onChangeText={[Function]}
+    placeholder="Search..."
+    placeholderTextColor="black"
+    style={
+      {
+        "flex": 1,
+        "fontSize": 16,
+        "height": 40,
+      }
+    }
+    value=""
+  />
+</View>
+`;

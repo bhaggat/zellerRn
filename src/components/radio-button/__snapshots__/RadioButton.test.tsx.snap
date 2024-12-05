@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RadioButton Component Snapshot Matched Checked 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "borderColor": "#E2E8F0",
+        "borderWidth": 1,
+        "justifyContent": "center",
+      },
+      {
+        "borderRadius": 10,
+        "height": 20,
+        "width": 20,
+      },
+      {
+        "borderColor": "#0370CE",
+      },
+      undefined,
+    ]
+  }
+  testID="radioButton"
+>
+  <View
+    style={
+      {
+        "backgroundColor": "#0370CE",
+        "borderRadius": 5,
+        "height": 10,
+        "width": 10,
+      }
+    }
+    testID="innerRadioButton"
+  />
+</View>
+`;
+
+exports[`RadioButton Component Snapshot matches 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "borderColor": "#E2E8F0",
+        "borderWidth": 1,
+        "justifyContent": "center",
+      },
+      {
+        "borderRadius": 10,
+        "height": 20,
+        "width": 20,
+      },
+      undefined,
+      undefined,
+    ]
+  }
+  testID="radioButton"
+/>
+`;

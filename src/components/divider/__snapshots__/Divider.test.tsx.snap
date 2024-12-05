@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Divider Component Render Component render 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#E2E8F0",
+        "height": 1,
+        "marginVertical": 10,
+        "width": "100%",
+      },
+      undefined,
+    ]
+  }
+/>
+`;
+
+exports[`Divider Component Snapshot matches 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#E2E8F0",
+        "height": 1,
+        "marginVertical": 10,
+        "width": "100%",
+      },
+      undefined,
+    ]
+  }
+/>
+`;
